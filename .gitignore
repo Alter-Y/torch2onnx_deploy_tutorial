@@ -1,0 +1,12 @@
+# onnx model
+*.onnx
+
+# jpg figure
+.jpg
+
+# 自定义torch算子c++文件
+/build
+/dist
+/my_add.egg-info
+/my_add.cpp
+/my_lib.cp38-win_amd64.pyd
